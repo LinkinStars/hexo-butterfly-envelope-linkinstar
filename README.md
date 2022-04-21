@@ -1,6 +1,7 @@
 # hexo-butterfly-envelope
 
-> 原仓库为: https://github.com/Akilarlxh/hexo-butterfly-envelope，为了修改其中相关图片的 cdn 地址故 fock 后进行图片地址修改，其余不变
+> 原仓库为: https://github.com/Akilarlxh/hexo-butterfly-envelope
+> 为了修改其中相关图片的 cdn 地址故 fock 后进行图片地址修改，其余不变
 
 给`hexo-theme-butterfly`添加 [信封样式留言板](https://akilar.top/posts/e2d3c450/)
 
