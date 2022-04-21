@@ -1,7 +1,7 @@
 {
-  "name": "hexo-butterfly-envelope",
+  "name": "hexo-butterfly-envelope-linkinstar",
   "version": "1.0.13",
-  "description": "A commentsbar beautify plugin for theme-butterfly",
+  "description": "A commentsbar beautify plugin for theme-butterfly. Forked from hexo-butterfly-envelope.",
   "main": "index.js",
   "scripts": {
     "eslint": "eslint ."
@@ -21,13 +21,13 @@
     "theme-butterfly",
     "plugins"
   ],
-  "author": "akilarlxh",
+  "author": "linkinstar",
   "license": "Apache-2.0",
   "dependencies": {
     "pug": "^3.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Akilarlxh/hexo-butterfly-envelop.git"
+    "url": "https://github.com/LinkinStars/hexo-butterfly-envelope-linkinstar.git"
   }
 }
